@@ -1,4 +1,5 @@
 import Banner from "./components/Banner/Banner";
+import Deals from "./components/Deals/Deals";
 import Navbar from "./components/Navbar/Navbar";
 import Thing from "./components/Thing/Thing";
 
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Banner />
       <Thing />
+      <Deals />
     </>
   );
 }

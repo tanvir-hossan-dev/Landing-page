@@ -3,7 +3,7 @@ import bannerImg from "../../assests/banner-img.png";
 
 const Banner = () => {
   return (
-    <div className="max-w-[1200px] m-auto ">
+    <div className="max-w-[1200px] m-auto pb-12">
       <div className="grid grid-cols-2 gap-4 pt-[60px] ">
         <div className="mt-12">
           <h1 className="text-[40px] font-bold">Get Started your </h1>
